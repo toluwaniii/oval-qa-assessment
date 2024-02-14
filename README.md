@@ -44,3 +44,6 @@ License:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+The link below shows the proper execution of the task requirements:
+
+https://drive.google.com/file/d/1_qOOa30nbiWv_Rsrz6sOqdRTjj1VTLlE/view?usp=sharing
