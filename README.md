@@ -20,23 +20,27 @@ Before running the tests, ensure you have the following dependencies installed:
 
 ## Setup
 
-Clone the repository:
+# Clone the Repository
 
-```bash
+To clone the repository, use the following command:
+
+```
 git clone https://github.com/toluwaniii/oval-qa-assessment.git
-Install dependencies:
+```
 
-bash
-Copy code
+Install dependencies:
+```
 npm install
-Running Tests
+```
+
+Running Tests:
+
 To run the tests, execute one of the following commands:
 
 Cucumber:
-
-bash
-Copy code
+```
 npm run cy:open
+```
 
 Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
@@ -44,6 +48,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Watch the demonstration video showcasing the proper execution of the task requirements:
+## Extras
+Watch the demonstration video showcasing the proper execution of the task requirements [here](https://drive.google.com/file/d/1_qOOa30nbiWv_Rsrz6sOqdRTjj1VTLlE/view?usp=sharing)
 
-https://drive.google.com/file/d/1_qOOa30nbiWv_Rsrz6sOqdRTjj1VTLlE/view?usp=sharing
