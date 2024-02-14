@@ -1,0 +1,15 @@
+A few suggestions on additional features to make the application more effective and user-friendly:
+
+- The application should priortize the information of a user by adding security feature;
+User should create an account before having any kind of access to the application as users tasks/information could be personal. 
+
+- Users should be able to priortize and filter tasks for easier tracking of tasks;
+Users should also be able to change progress of each tasks i.e a feature to know if a task is pending, ongoing or completed. 
+
+- Application should have a search feature to easily identify a specific task amongst a long list of tasks.
+
+- Users should be able to set reminders and receive notifications for an upcoming deadline.
+
+- Application should be able to break a long list of todos into different pages to prevent it from looking clustered.
+
+- Users should be able to select multiple todos to be moved around the application or to be deleted.

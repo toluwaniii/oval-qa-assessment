@@ -1,0 +1,9 @@
+A few bugs were found during the assessment:
+
+- User should only be able to update a todo when the update button is clicked, the "add todo" feature should not be visible.
+
+- User should be able to cancel the update action.
+
+Below is a file attached to get a proper understanding of these bugs:
+
+https://docs.google.com/spreadsheets/d/1csKgkzlpJa36kk8mGp4zWfSna2lgTVACnUyBPL7Sc0s/edit#gid=0
