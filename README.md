@@ -37,10 +37,13 @@ Cucumber:
 bash
 Copy code
 npm run cy:open
-Contributing
+
+Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-License
+License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Watch the demonstration video showcasing the proper execution of the task requirements.
+Watch the demonstration video showcasing the proper execution of the task requirements:
+
+https://drive.google.com/file/d/1_qOOa30nbiWv_Rsrz6sOqdRTjj1VTLlE/view?usp=sharing
